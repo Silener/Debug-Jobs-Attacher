@@ -1,0 +1,9 @@
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\bin\Debug\NotSoSmartAttacher.pdb
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\bin\Debug\NotSoSmartAttacher.xml
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\bin\Debug\Interop.EnvDTE100.dll
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\obj\Debug\NotSoSmartAttacher.csprojResolveAssemblyReference.cache
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\obj\Debug\Interop.EnvDTE100.dll
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\obj\Debug\NotSoSmartAttacher.csproj.ResolveComReference.cache
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\obj\Debug\NotSoSmartAttacher.pdb
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\bin\Debug\NotSoSmartAttacher.exe
+E:\SAR\VSS Common\InternalSystems\MAIN\NotSoSmartAttacher\NotSoSmartAttacher\NotSoSmartAttacher\obj\Debug\NotSoSmartAttacher.exe
